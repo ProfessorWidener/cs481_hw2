@@ -5,7 +5,7 @@
 // while EXPECT_* variants continue with the run.
 
 #include "gtest/gtest.h"
-#include "hw2_src/replacement.hpp"
+#include "../replacement.hpp"
 
 int main(int argc, char** argv)
 {

@@ -5,7 +5,7 @@
 // while EXPECT_* variants continue with the run.
 
 #include "gtest/gtest.h"
-#include "hw2_src/virtual_to_physical.hpp"
+#include "../virtual_to_physical.hpp"
 
 int main(int argc, char** argv)
 {
